@@ -1,6 +1,6 @@
 # Data-Center Sustainability Analytics | rithmsAI
 
-**[Explore the interactive case study](https://kaya-rithmsai-portfolio.krobin2411.chatgpt.site/projects/datacenter/)** · [Executed notebook](notebooks/01_exploration.ipynb) · [Sources and reuse terms](SOURCES.md)
+**[Explore the interactive case study](https://rithmsai.github.io/tripleten-portfolio/projects/datacenter/)** · [Executed notebook](notebooks/01_exploration.ipynb) · [Sources and reuse terms](SOURCES.md)
 
 ![Resource growth](reports/resource_growth.png)
 
