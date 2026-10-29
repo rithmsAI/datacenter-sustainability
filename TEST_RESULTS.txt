@@ -1,0 +1,18 @@
+Python: 3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]
+Command: python -m unittest discover -s tests -v
+Exit code: 0
+
+test_censored_is_not_zero (test_analysis.AnalysisTests.test_censored_is_not_zero) ... ok
+test_invalid_denominators (test_analysis.AnalysisTests.test_invalid_denominators) ... ok
+test_location_fixture_prevents_column_shift (test_analysis.AnalysisTests.test_location_fixture_prevents_column_shift) ... ok
+test_negative_water (test_analysis.AnalysisTests.test_negative_water) ... ok
+test_scenario_energy_balance (test_analysis.AnalysisTests.test_scenario_energy_balance) ... ok
+test_source_shape_and_reconciliation (test_analysis.AnalysisTests.test_source_shape_and_reconciliation) ... ok
+test_units (test_analysis.AnalysisTests.test_units) ... ok
+test_complete_panel_and_scale (test_eia.EiaTests.test_complete_panel_and_scale) ... ok
+test_extraction_matches_shipped_data (test_eia.EiaTests.test_extraction_matches_shipped_data) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.535s
+
+OK

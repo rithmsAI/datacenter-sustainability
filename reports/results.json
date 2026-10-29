@@ -1,0 +1,14 @@
+{
+  "fy20_to_fy25_growth_percent": {
+    "electricity_mwh": 243.7687882158973,
+    "water_withdrawal_ml": 95.26052399175744,
+    "water_consumption_ml": 104.76190476190474
+  },
+  "location_rows": 29,
+  "censored_water_rows": 1,
+  "regional_context_years": [
+    2010,
+    2025
+  ],
+  "ml_status": "No model fitted: descriptive aggregate evidence only"
+}

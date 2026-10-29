@@ -1,0 +1,30 @@
+location,country,state,electricity_mwh,water_withdrawal_ml,water_qualifier
+Auckland,New Zealand,,19465,,lt_1_ml
+Busan,South Korea,,196701,7,reported
+Jakarta,Indonesia,,22172,84,reported
+Kuala Lumpur,Malaysia,,19971,23,reported
+Melbourne,Australia,,12821,9,reported
+Singapore,Singapore,,338845,423,reported
+Sydney,Australia,,7704,8,reported
+Taipei,Taiwan,,81671,4,reported
+Copenhagen,Denmark,,29964,3,reported
+Dublin,Ireland,,1308581,18,reported
+Gavle-Sandviken,Sweden,,704549,14,reported
+Hollands Kroon,Netherlands,,1291170,46,reported
+Madrid,Spain,,22588,15,reported
+Malmo,Sweden,,41681,1,reported
+Milan,Italy,,46989,6,reported
+Vienna,Austria,,13849,4,reported
+Warsaw,Poland,,82613,2,reported
+Ashburn,United States,VA,828925,239,reported
+Atlanta,United States,GA,11718,19,reported
+Boydton,United States,VA,3113847,362,reported
+Cheyenne,United States,WY,1091460,188,reported
+Chicago,United States,IL,369328,204,reported
+Des Moines,United States,IA,2152335,264,reported
+East Wenatchee,United States,WA,299727,51,reported
+Manassas,United States,VA,39968,11,reported
+Phoenix,United States,AZ,954206,981,reported
+Queretaro,Mexico,,6362,19,reported
+Quincy,United States,WA,1381569,1292,reported
+San Antonio,United States,TX,1440710,420,reported

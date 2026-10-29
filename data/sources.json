@@ -1,0 +1,40 @@
+[
+  {
+    "id": "microsoft_2026",
+    "publisher": "Microsoft",
+    "title": "2026 Environmental Data Fact Sheet",
+    "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf",
+    "discovery_url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/sustainability/report/",
+    "retrieved": "2026-10-29",
+    "sha256": "0fd180837df00b3427c3eae484a492224b8f18c381e82a2aed98b04553a197f6",
+    "license": "No explicit open-data license identified; Microsoft copyright/terms retained. Limited attributed numeric excerpts only; PDF not redistributed.",
+    "locators": {
+      "microsoft_annual.csv": "Tables 5 (p6) and 8 (p7)",
+      "microsoft_locations_fy25.csv": "Table 15 (p25), definitions p26"
+    },
+    "limitations": "Corporate fiscal-year values versus owned/operated datacenter clusters. Section 2 not reviewed by Deloitte. Prior years restated. Location values may be estimated. Excludes commissioning and locations collectively below 1% of owned datacenter withdrawal and electricity."
+  },
+  {
+    "id": "eia_hs861",
+    "publisher": "US Energy Information Administration",
+    "url": "https://www.eia.gov/electricity/data/state/xls/861/HS861%202010-.xlsx",
+    "discovery_url": "https://www.eia.gov/electricity/data/state/",
+    "retrieved": "2026-10-29",
+    "release_date": "2026-10-07",
+    "sha256": "e4c74d03f4a6b8c68045e3d2d3392b81bb5230f5d9989edd3c7046611092af16",
+    "license": "US government public domain, subject to third-party exceptions; attribute EIA and release date. https://www.eia.gov/about/copyrights_reuse.php",
+    "locator": "Total Electric Industry sheet; TOTAL Sales column T (index 19); header unit Megawatthours",
+    "limitations": "Calendar-year all-sector retail sales, not total energy consumption and not datacenter-only. Five selected states provide context, not a representative sample."
+  },
+  {
+    "id": "lbnl_2025_update",
+    "publisher": "DOE / Lawrence Berkeley National Laboratory",
+    "title": "United States Data Center Energy Usage Report: 2025 Update",
+    "publication_date": "2026-06-18",
+    "url": "https://www.energy.gov/documents/united-states-data-center-energy-usage-report-2025-update",
+    "doi": "10.71468/P1RP4F",
+    "license": "CC BY 4.0 per eScholarship cover; attribute Smith et al. 2026, LBNL-2001758",
+    "locator": "printed pp8 and 24 (PDF pages10 and26)",
+    "limitations": "Modeled national historical estimates; not Microsoft measurements. Some underlying market inputs are proprietary. Published report is accessible, original bottom-up model cannot be fully reconstructed from these excerpts."
+  }
+]

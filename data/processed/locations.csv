@@ -1,0 +1,30 @@
+location,country,state,electricity_mwh,water_withdrawal_ml,water_qualifier,withdrawal_l_per_kwh,scope
+Auckland,New Zealand,,19465,,lt_1_ml,,Microsoft owned operated datacenter location clusters; FY25
+Busan,South Korea,,196701,7.0,reported,0.03558700769187752,Microsoft owned operated datacenter location clusters; FY25
+Jakarta,Indonesia,,22172,84.0,reported,3.7885621504600397,Microsoft owned operated datacenter location clusters; FY25
+Kuala Lumpur,Malaysia,,19971,23.0,reported,1.1516699213860098,Microsoft owned operated datacenter location clusters; FY25
+Melbourne,Australia,,12821,9.0,reported,0.7019733250136495,Microsoft owned operated datacenter location clusters; FY25
+Singapore,Singapore,,338845,423.0,reported,1.2483583939559386,Microsoft owned operated datacenter location clusters; FY25
+Sydney,Australia,,7704,8.0,reported,1.0384215991692627,Microsoft owned operated datacenter location clusters; FY25
+Taipei,Taiwan,,81671,4.0,reported,0.048976993057511235,Microsoft owned operated datacenter location clusters; FY25
+Copenhagen,Denmark,,29964,3.0,reported,0.1001201441730076,Microsoft owned operated datacenter location clusters; FY25
+Dublin,Ireland,,1308581,18.0,reported,0.013755357902949836,Microsoft owned operated datacenter location clusters; FY25
+Gavle-Sandviken,Sweden,,704549,14.0,reported,0.019870867746601018,Microsoft owned operated datacenter location clusters; FY25
+Hollands Kroon,Netherlands,,1291170,46.0,reported,0.035626602228986115,Microsoft owned operated datacenter location clusters; FY25
+Madrid,Spain,,22588,15.0,reported,0.6640694173897644,Microsoft owned operated datacenter location clusters; FY25
+Malmo,Sweden,,41681,1.0,reported,0.023991746839087353,Microsoft owned operated datacenter location clusters; FY25
+Milan,Italy,,46989,6.0,reported,0.12768945923514013,Microsoft owned operated datacenter location clusters; FY25
+Vienna,Austria,,13849,4.0,reported,0.2888295183767781,Microsoft owned operated datacenter location clusters; FY25
+Warsaw,Poland,,82613,2.0,reported,0.024209264885671745,Microsoft owned operated datacenter location clusters; FY25
+Ashburn,United States,VA,828925,239.0,reported,0.2883252405223633,Microsoft owned operated datacenter location clusters; FY25
+Atlanta,United States,GA,11718,19.0,reported,1.621437105308073,Microsoft owned operated datacenter location clusters; FY25
+Boydton,United States,VA,3113847,362.0,reported,0.11625490912045454,Microsoft owned operated datacenter location clusters; FY25
+Cheyenne,United States,WY,1091460,188.0,reported,0.17224634892712515,Microsoft owned operated datacenter location clusters; FY25
+Chicago,United States,IL,369328,204.0,reported,0.5523545466360525,Microsoft owned operated datacenter location clusters; FY25
+Des Moines,United States,IA,2152335,264.0,reported,0.12265748593968875,Microsoft owned operated datacenter location clusters; FY25
+East Wenatchee,United States,WA,299727,51.0,reported,0.17015484090522376,Microsoft owned operated datacenter location clusters; FY25
+Manassas,United States,VA,39968,11.0,reported,0.2752201761409127,Microsoft owned operated datacenter location clusters; FY25
+Phoenix,United States,AZ,954206,981.0,reported,1.0280798905058237,Microsoft owned operated datacenter location clusters; FY25
+Queretaro,Mexico,,6362,19.0,reported,2.986482238289846,Microsoft owned operated datacenter location clusters; FY25
+Quincy,United States,WA,1381569,1292.0,reported,0.9351686379760982,Microsoft owned operated datacenter location clusters; FY25
+San Antonio,United States,TX,1440710,420.0,reported,0.2915229296666227,Microsoft owned operated datacenter location clusters; FY25

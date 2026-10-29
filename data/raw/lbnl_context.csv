@@ -1,0 +1,4 @@
+calendar_year,metric,value,unit,scope,source_locator
+2018,pue,1.55,ratio,US national modeled datacenter aggregate,2025 update printed page 24
+2024,pue,1.45,ratio,US national modeled datacenter aggregate,2025 update printed page 24
+2024,electricity,192,TWh,US national modeled datacenter aggregate,2025 update printed page 8
